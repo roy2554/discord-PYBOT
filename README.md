@@ -1,4 +1,5 @@
 # discord-PYBOT
+![LICENSE](https://img.shields.io/badge/license-MIT-green)  
 <img src="https://i.ibb.co/JFVm1Lv/PYBot.png" width="80" height="80">  
 새로운 봇 PYBOT 출시예정  
 접두사 : "!"
